@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcfee584-d497-4433-9892-d63bf1d2e93e" name="Default Changelist" comment="" />
+    <list default="true" id="dcfee584-d497-4433-9892-d63bf1d2e93e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4/Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4/Task 1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Part 4/Task 1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -27,6 +31,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,7 +62,6 @@
         <option value="$PROJECT_DIR$/Part 2/5 Task.py" />
         <option value="$PROJECT_DIR$/Part 2/6 Task.py" />
         <option value="$PROJECT_DIR$/Part 3/Task 1.py" />
-        <option value="$PROJECT_DIR$/Part 4/Task 1.py" />
         <option value="$PROJECT_DIR$/Part 4/Task 2.py" />
         <option value="$PROJECT_DIR$/Part 4/Task 5.py" />
         <option value="$PROJECT_DIR$/Part 4/Task 3.py" />
@@ -64,12 +70,13 @@
         <option value="$PROJECT_DIR$/Part 3/Task 3.py" />
         <option value="$PROJECT_DIR$/Part 3/Task 4.py" />
         <option value="$PROJECT_DIR$/Part 3/Task 5.py" />
+        <option value="$PROJECT_DIR$/Part 4/Task 1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1686" />
-    <option name="y" value="82" />
+    <option name="x" value="254" />
+    <option name="y" value="28" />
     <option name="width" value="1402" />
     <option name="height" value="1014" />
   </component>
@@ -78,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,9 +116,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -262,8 +270,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="103" width="1402" height="1014" extended-state="0" />
-    <editor active="true" />
+    <frame x="254" y="28" width="1402" height="1014" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3313783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -296,75 +303,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/!1 Hello/!1 Hi без Конкатенации с !.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!1 Hello/!3 Степень.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!1 Hello/!2 3x число.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!1 Hello/!4 Число N минут.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!1 Hello/!5 пирожки.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!2 Boxes/!2 !=0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!2 Boxes/!1 Boxes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!2 Boxes/!4.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!2 Boxes/!3 A and B.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!2 Boxes/!5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/!2 Boxes/!6.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/!1 Hello/!1 Hi без Конкатенации с !.py" />
+    <entry file="file://$PROJECT_DIR$/!1 Hello/!3 Степень.py" />
+    <entry file="file://$PROJECT_DIR$/!1 Hello/!2 3x число.py" />
+    <entry file="file://$PROJECT_DIR$/!1 Hello/!4 Число N минут.py" />
+    <entry file="file://$PROJECT_DIR$/!1 Hello/!5 пирожки.py" />
+    <entry file="file://$PROJECT_DIR$/!2 Boxes/!2 !=0.py" />
+    <entry file="file://$PROJECT_DIR$/!2 Boxes/!1 Boxes.py" />
+    <entry file="file://$PROJECT_DIR$/!2 Boxes/!4.py" />
+    <entry file="file://$PROJECT_DIR$/!2 Boxes/!3 A and B.py" />
+    <entry file="file://$PROJECT_DIR$/!2 Boxes/!5.py" />
+    <entry file="file://$PROJECT_DIR$/!2 Boxes/!6.py" />
     <entry file="file://$PROJECT_DIR$/Part 1/2 Task.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -510,8 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 4/Task 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
